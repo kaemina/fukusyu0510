@@ -31,5 +31,7 @@ namespace fukusyu0510
         {
             button3.Location = new Point(15, 15);
         }
+
+       
     }
 }
